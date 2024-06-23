@@ -1,0 +1,83 @@
+.header{
+    text-align: center;
+    color: red;
+    margin-top: -20px;
+}
+#wrapper .header-menu{
+    color: #333;
+}
+.container{
+    display: flex;
+    
+}
+#vegetarian{
+    margin-left: 180px;
+    border: 1px solid #333;
+    padding: 5px 10px;
+   
+
+}
+
+#nonvegetarian{
+    margin-left: 180px;
+    border: 1px solid #333;
+    padding: 5px 10px;
+}
+
+/* #vegetarian h2{
+    border: 1px solid #333;
+    padding: 5px 10px;
+}
+#nonvegetarian h2{
+    border: 1px solid #333;
+    padding: 5px 10px;
+} */
+
+#vegetarian ul{
+    padding: 5px 20px;
+}
+#nonvegetarian ul{
+    padding: 5px 20px;
+}
+#nonvegetarian .listt{
+    margin-top: 20px;
+}
+.container .listt{
+    margin-top: 20px;
+    /* color: red; */
+}
+.footer p{
+    text-align: center;
+}
+.form-group{
+    width: 100%;
+    padding: 0.5rem;
+    border-radius: 9px;
+    font-size: 1.1rem;
+    align-items: center;
+}
+.btn-submit {
+    background-color: #007bff; 
+    color: #fff;
+    padding: 10px 20px; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    font-size: 16px; 
+}
+
+.btn-submit:hover {
+    background-color: #0056b3; 
+}
+.form-group .btn-submit{
+    margin-left: 564px;
+    padding: 10px 80px;
+}
+.form-group .message{
+    margin-left: 466px;
+    padding: 5px 101px;
+}
+#wrapper{
+    /* background:url('../order.jpg')no-repeat center center/cover ; */
+    background-color: #e7d9d9;
+}
